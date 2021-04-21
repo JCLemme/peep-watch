@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "si1151")(type "KiCad")(uri "/home/jclemme/Projects/watches/common/kicad-libs/si1151.pretty")(options "")(descr ""))
+  (lib (name "parts")(type "KiCad")(uri "/home/jclemme/Projects/watches/common/kicad-libs")(options "")(descr ""))
+)

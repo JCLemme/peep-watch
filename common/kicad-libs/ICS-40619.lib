@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# ICS-40619
+#
+DEF ICS-40619 MK 0 40 Y Y 1 L N
+F0 "MK" -300 400 50 H V L BNN
+F1 "ICS-40619" -300 -501 50 H V L BNN
+F2 "MIC_ICS-40619" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Invensense" 0 0 50 H I L BNN "MANUFACTURER"
+F5 "Manufacturer Recommednation" 0 0 50 H I L BNN "STANDARD"
+F6 "1.0" 0 0 50 H I L BNN "PARTREV"
+DRAW
+S -300 -400 300 400 0 0 10 f
+X VDD 6 500 300 200 L 40 40 0 0 W 
+X OUTPUT+ 4 500 100 200 L 40 40 0 0 O 
+X GND 1 500 -300 200 L 40 40 0 0 W 
+X GND 2 500 -300 200 L 40 40 0 0 W 
+X GND 5 500 -300 200 L 40 40 0 0 W 
+X OUTPUT- 3 500 -100 200 L 40 40 0 0 O 
+ENDDRAW
+ENDDEF
+#
+# End Library

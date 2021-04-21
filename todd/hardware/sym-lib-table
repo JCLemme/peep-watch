@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name "NRF5340-QKAA-AB0-R")(type "Legacy")(uri "/home/jclemme/Projects/watches/common/kicad-libs/NRF5340-QKAA-AB0-R.lib")(options "")(descr ""))
+  (lib (name "S25F512SAG")(type "KiCad")(uri "/home/jclemme/Projects/watches/common/kicad-libs/2021-04-18_00-18-51.kicad_sym")(options "")(descr ""))
+  (lib (name "max20353")(type "KiCad")(uri "/home/jclemme/Projects/watches/common/kicad-libs/max20353.kicad_sym")(options "")(descr ""))
+  (lib (name "ICM-20948")(type "KiCad")(uri "/home/jclemme/Projects/watches/common/kicad-libs/ICM-20948.kicad_sym")(options "")(descr ""))
+  (lib (name "ICS-40619")(type "KiCad")(uri "/home/jclemme/Projects/watches/common/kicad-libs/ICS-40619.kicad_sym")(options "")(descr ""))
+  (lib (name "LTR303ALS")(type "KiCad")(uri "/home/jclemme/Projects/watches/common/kicad-libs/LTR303ALS.kicad_sym")(options "")(descr ""))
+  (lib (name "BMX160")(type "Legacy")(uri "/home/jclemme/Projects/watches/common/kicad-libs/BMX160.lib")(options "")(descr ""))
+  (lib (name "si115x")(type "KiCad")(uri "/home/jclemme/Projects/watches/common/kicad-libs/si115x.kicad_sym")(options "")(descr ""))
+)
