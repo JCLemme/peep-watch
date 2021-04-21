@@ -1,4 +1,4 @@
-# watches
+# peep watch
 
 I'm attempting to build some real nice rebbleos hardware. 
 
