@@ -2,6 +2,8 @@
 
 Ok so this is the "big board" prototype. Everything broken out, huge pcb, erring on the side of excess, etc. Hopefully this design can just be taken and crammed onto a tiny lil board when we're ready to make some wearable prototypes.
 
+[See the schematic here](./sch_export/todd_watch.pdf)
+
 ---
 
 ## theory of design
